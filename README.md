@@ -21,7 +21,7 @@ database
 
 - score of number of stuff bookmarked, number of people bookmarked
 
-
+- remove bookmarks
 
 
 valid emails, spam alerts
