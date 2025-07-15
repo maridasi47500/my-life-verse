@@ -22,13 +22,13 @@ database
 - score of number of stuff bookmarked, number of people bookmarked
 
 - remove bookmarks/add bookmarks bookmark number rails
-- user page earth/bag bookmarks, place for bookmarks
+- user page has many plabene tickets and has many bookmarks, place for bookmarks
 
 
 valid emails, spam alerts
 
-- home page is 2 or 3 of your favorite activities, where there are more bookmrks
-- in the welcome page you have got a plane ticket
+* ** home page is **2 or 3 of your favorite activities, where there are more bookmrks**
+- in the welcome page you have got a **plane ticket**
 
 and the signup has phone number and ountry of phone number
 
