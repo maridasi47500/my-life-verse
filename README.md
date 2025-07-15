@@ -21,7 +21,8 @@ database
 
 - score of number of stuff bookmarked, number of people bookmarked
 
-- remove bookmarks
+- remove bookmarks/add bookmarks bookmark number rails
+- user page earth/bag bookmarks, place for bookmarks
 
 
 valid emails, spam alerts
