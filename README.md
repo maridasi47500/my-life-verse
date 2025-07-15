@@ -26,7 +26,6 @@ database
 
 valid emails, spam alerts
 
-events, reviews of homes
 - home page is 2 or 3 of your favorite activities, where there are more bookmrks
 - in the welcome page you have got a plane ticket
 
