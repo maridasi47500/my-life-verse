@@ -27,10 +27,10 @@ database
 
 valid emails, spam alerts
 
-* ** home page is **2 or 3 of your favorite activities, where there are more bookmrks**
+* ** home page is **2 or 3 of your favorite activities**
 - in the welcome page you have got a **plane ticket**
 
 and the signup has phone number and ountry of phone number
 
-user can randomly receipt mail in inbox, or sms in phone inbox, or vocal message in phone
+user can randomly receipt **mail in inbox, or sms in phone inbox, or vocal message in phone**
 
